@@ -5,7 +5,10 @@ This repository contains a Jupyter Notebook for performing exploratory data anal
 
 ## Prerequisites
 
-Before you start, ensure you have the following tools and libraries installed based on your chosen environment (cloud or local).
+### General Requirements
+- **Python 3.8 or higher**
+- **Google Colab** (Cloud environment setup)
+- **Internet connection** for installing dependencies
 
 ### 1. **Local Environment Setup**
 
