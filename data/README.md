@@ -16,3 +16,5 @@ This dataset contains the emergy metabolism accounts for 281 cities in China, sp
 | Economic Indicators | Economic data, such as GDP or industrial output, associated with the city.      |
 
 For more detailed information, please contact the authors at their respective emails.
+
+Here is the link to [the original web page of the dataset](https://doi.org/10.6084/m9.figshare.27930855)
